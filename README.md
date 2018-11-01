@@ -8,3 +8,4 @@ For example, with this program you can see whether you were born on Monday, Tues
 This program runs a GUI to act as an actual Calculator.
 
 ### Lottery
+A simple program that returns the odds to win the lottery
