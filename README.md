@@ -9,3 +9,6 @@ This program runs a GUI to act as an actual Calculator.
 
 ### Lottery
 A simple program that returns the odds to win the lottery
+
+### Lucky 
+A simple program that returns an average number of rolls until one gets a 7
